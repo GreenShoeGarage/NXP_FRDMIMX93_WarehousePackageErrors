@@ -1,0 +1,2 @@
+# NXP_FRDMIMX93_WarehousePackageErrors
+
